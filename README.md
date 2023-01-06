@@ -6,12 +6,14 @@ As a data science professional, I have a strong foundation in both theoretical a
 ## 🛠 Languages & Tools
 
 
-<img align="left" alt="Numpy" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/320px-NumPy_logo_2020.svg.png"/>
-<img align="left" alt="Pandas" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Pandas_logo_2016.svg"/>
+<img align="left" alt="Numpy" width="125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/320px-NumPy_logo_2020.svg.png"/>
+<img align="left" alt="Pandas" width="125px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Pandas_logo_2016.svg"/>
 <img align="left" alt="Scikit-Learn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-<img align="left" alt="Matplotlib" width="100px" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"/>
-<img align="left" alt="Seaborn" width="100px" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"/>
-<img align="left" alt="BeautifulSoup" width="100px" src="https://www.jeveuxetredatascientist.fr/wp-content/uploads/2022/06/BeautifulSoup-1080x428.jpg"/>
-<img align="left" alt="Scipy" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/240px-SCIPY_2.svg.png"/>
-<img align="left" alt="Tensorflow" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png"/>
+<img align="left" alt="Matplotlib" width="125px" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"/>
+<img align="left" alt="Seaborn" width="125px" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"/>
+<img align="left" alt="BeautifulSoup" width="85px" src="https://www.jeveuxetredatascientist.fr/wp-content/uploads/2022/06/BeautifulSoup-1080x428.jpg"/>
+<img align="left" alt="Scipy" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/240px-SCIPY_2.svg.png"/>
+<img align="left" alt="Tensorflow" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png"/>
+
+
 <img align="left" alt="PyTorch" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"/>
