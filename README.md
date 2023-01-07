@@ -4,11 +4,11 @@
 As a proactive and self-motivated individual, I am always looking to expand my knowledge and skills in the field of data science. I am excited to contribute to meaningful projects on GitHub and am open to collaboration with like-minded individuals.
 
 ## Certifications
-- IBM Data Science Specialisation Certificate
-- Google Data Analytics Certificate
-- Mathematics for Machine Learning course at Imperial College London
-- Python Crash Course on Google
-- IBM EDA for Machine Learning 
+- [IBM Data Science Specialisation Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/2V4TX3QY6ND5)
+- [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6WY7V4PRHKHS)
+- [Mathematics for Machine Learning course at Imperial College London](https://www.coursera.org/account/accomplishments/specialization/certificate/YRPV3FTKSHXF)
+- [Google Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/PDJC6BEBHRE3)
+- [IBM EDA for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/S5KD682ZAPVL)
 
 ## 🛠 Languages & Tools
 <img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png"/>
