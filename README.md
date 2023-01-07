@@ -1,8 +1,15 @@
 # Hi, I'm Vinith! 👋
+
 ## 🚀 About Me
 As a proactive and self-motivated individual, I am always looking to expand my knowledge and skills in the field of data science. I am excited to contribute to meaningful projects on GitHub and am open to collaboration with like-minded individuals.
-##  Qualifications
-As a data science professional, I have a strong foundation in both theoretical and practical aspects of the field. My qualifications include the IBM Data Science Specialisation Certificate, Google Data Analytics Certificate, and Mathematics for Machine Learning course at Imperial College London. In addition, I have completed the IBM EDA for Machine Learning Certificate, which has further enhanced my understanding of exploratory data analysis and its role in the machine learning process.
+
+## Certifications
+- IBM Data Science Specialisation Certificate
+- Google Data Analytics Certificate
+- Mathematics for Machine Learning course at Imperial College London
+- Python Crash Course on Google
+- IBM EDA for Machine Learning 
+
 ## 🛠 Languages & Tools
 <img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png"/>
 <img align="left" alt="R" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/310px-R_logo.svg.png"/>
